@@ -1,0 +1,82 @@
+
+
+
+.navbar-brand{
+    color: #6b8993;
+    margin-bottom: 50px;
+}
+
+.nav-item{
+    color:red;
+    margin-bottom: 59.8px;
+}
+
+#backup{
+    margin-left: 15px;
+}
+
+.fas.fa-database{
+    font-size: 2rem;
+    margin-left: 20px;
+}
+
+.fas.fa-backward{
+    font-size: 2rem;
+    margin-left: 10px;
+}
+
+.fas.fa-trash-can-arrow-up{
+    font-size: 2rem;
+    margin-left: 25px;
+}
+
+.fas.fa-bell{
+    font-size: 2rem;
+    margin-left: 5px;
+}
+
+.safebaseico{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+#bell{
+    margin-left: 20px;
+}
+
+#basesafe{
+     margin-left: 5px;
+}
+
+#base{
+    margin-left: 5px;
+}
+
+.titre{
+    margin-left: 10px;
+    margin-bottom: 500px;
+}
+
+body{
+    background-color:#6b8993 ;
+}
+
+#btnajout{
+    margin-top: 5%;
+    height: 10%;
+    font-weight: bold;
+}
+
+.table{
+    margin-top: -30%;
+    margin-left: 5px;
+}
+
+.btn-secondary{
+    margin-left: 20px;
+}
+
+.btn-primary {
+    margin-left: 900px;
+}
